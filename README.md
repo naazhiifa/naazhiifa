@@ -18,15 +18,14 @@ I'm passionate about creating beautiful, responsive, and user-friendly web appli
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Fildza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzanazhifa&show_icons=true&theme=radical)
+![Fildza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naazhiifa&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzanazhifa&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naazhiifa&layout=compact&theme=radical)
 
 ---
 
