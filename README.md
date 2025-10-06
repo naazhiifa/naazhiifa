@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Fildza Nazhifa</h1>
-<h3 align="center">💻 Frontend Developer | Crafting Digital Experiences>
+<h3 align="center">💻 Frontend Developer | Crafting Digital Experiences</h3>
 
 <p align="center">
   <i>Passionate about crafting beautiful and functional web experiences</i>
