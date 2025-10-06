@@ -1,9 +1,19 @@
-<h1 align="center">👋 Hello, I'm Fildza Nazhifa</h1>
-<h3 align="center">💻 Frontend Developer</h3>
+<div align="center">
+  
+# 🚀 Fildza Nazhifa
 
-<p align="center">
-  Passionate about crafting beautiful and functional web experiences
+### **Frontend Developer** | Crafting Digital Experiences
+
+<p>
+  <a href="https://www.linkedin.com/in/dzanazhifa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fildzanazhifautomo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+</div>
 
 ---
 
