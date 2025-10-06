@@ -2,7 +2,6 @@
   
 # 👋🏻 Hello, I'am Fildza Nazhifa
 
-### **Frontend Developer** | Crafting Digital Experiences
 <h3 align="center">💻 Frontend Developer | Crafting Digital Experiences</h3>
 
 <p align="center">
