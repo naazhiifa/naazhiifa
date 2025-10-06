@@ -11,7 +11,7 @@
 
 #### **Frontend**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,tailwind,html,css,bootstrap" />
 </div>
 
 #### **Backend**
@@ -21,7 +21,7 @@
 
 #### **Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,github,intelejidea" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,github" />
 </div>
 
 ---
