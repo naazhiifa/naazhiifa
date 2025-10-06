@@ -1,8 +1,9 @@
-<div align="center">
-  
-# 🚀 Fildza Nazhifa
+<h1 align="center">👋 Hello, I'm Fildza Nazhifa</h1>
+<h3 align="center">💻 Frontend Developer | Crafting Digital Experiences>
 
-### **Frontend Developer** | Crafting Digital Experiences
+<p align="center">
+  <i>Passionate about crafting beautiful and functional web experiences</i>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/dzanazhifa/">
