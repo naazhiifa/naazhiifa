@@ -27,9 +27,9 @@ I'm passionate about creating beautiful, responsive, and user-friendly web appli
 
 ### 📊 GitHub Stats
 
-![Fildza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fildzanazhifa&show_icons=true&theme=radical)
+![Fildza's GitHub Stats](https://github.com/naazhiifa)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fildzanazhifa&layout=compact&theme=radical)
+![Top Languages](https://github.com/naazhiifa)
 
 ---
 
@@ -37,8 +37,6 @@ I'm passionate about creating beautiful, responsive, and user-friendly web appli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzanazhifa/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fildzanazhifautomo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://fildza-nazhifa.vercel.app)
-
 ---
 
-⭐️ From [fildzanazhifa](https://github.com/fildzanazhifa)
+⭐️ From [dzanazhifa](https://github.com/naazhiifa)
