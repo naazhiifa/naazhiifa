@@ -42,19 +42,11 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=fildzanazhifa&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=naazhiifa&theme=radical&hide_border=true)
   
 </div>
 
 ---
-
-### 📈 Activity Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naazhiifa&theme=radical&hide_border=true)
-
-</div>
 
 
 <div align="center">
@@ -69,6 +61,3 @@ I'm always open to discussing new opportunities and interesting projects
 
 ---
 
-<div align="center">
-  ⭐️ From <a href="https://github.com/naazhiifa">dzanazhifa</a>
-</div>
