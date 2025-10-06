@@ -31,21 +31,40 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naazhiifa&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naazhiifa&layout=compact&theme=radical&hide_border=true" />
+  
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naazhiifa&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naazhiifa&layout=compact&theme=radical&hide_border=true" /> |
+|:---:|:---:|
+| **GitHub Stats** | **Top Languages** |
+
+</div>
+
+<br>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=fildzanazhifa&theme=radical&hide_border=true)
+  
 </div>
 
 ---
 
-### 📫 Let's Connect
+### 📈 Activity Graph
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dzanazhifa/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:fildzanazhifautomo@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naazhiifa&theme=radical&hide_border=true)
+
+</div>
+
+
+<div align="center">
+  
+### 💬 Let's Collaborate!
+
+I'm always open to discussing new opportunities and interesting projects
+
+⭐️ From [fildzanazhifa](https://github.com/fildzanazhifa)
+
 </div>
 
 ---
