@@ -12,25 +12,6 @@
 
 ---
 
-### 🚀 Tech & Tools
-
-#### **Frontend**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,tailwind,html,css,bootstrap" />
-</div>
-
-#### **Backend**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,php,kotlin,flutter" />
-</div>
-
-#### **Tools**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,github" />
-</div>
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -47,6 +28,25 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=naazhiifa&theme=radical&hide_border=true)
   
+</div>
+
+---
+
+### 🚀 Tech & Tools
+
+#### **Frontend**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,tailwind,html,css,bootstrap" />
+</div>
+
+#### **Backend**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,php,kotlin,flutter" />
+</div>
+
+#### **Tools**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,github" />
 </div>
 
 ---
