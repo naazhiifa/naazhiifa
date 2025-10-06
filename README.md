@@ -12,17 +12,17 @@
 ### 🚀 Tech & Tools
 
 #### **Frontend**
-<div align="right">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js,tailwind,html,css,bootstrap" />
 </div>
 
 #### **Backend**
-<div align="right">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql,php,kotlin,flutter" />
 </div>
 
 #### **Tools**
-<div align="right">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,github" />
 </div>
 
